@@ -11,4 +11,5 @@ const QuizContainer = styled.div`
     padding: 1rem;
   }
 `
+
 export default QuizContainer

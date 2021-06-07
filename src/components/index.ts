@@ -1,0 +1,5 @@
+import { default as Input } from './Input'
+import { default as Footer } from './Footer'
+import { default as QuizBackground } from './QuizBackground'
+import { default as QuizContainer } from './QuizContainer'
+import { default as Widget } from './Widget'
